@@ -1,6 +1,6 @@
 # textkit
 
-Small, dependency-free text helpers for Python.
+Small, dependency free text helpers for Python.
 
 ```python
 from textkit import word_count, title_case
